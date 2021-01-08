@@ -33,7 +33,7 @@
 
 ### 1.00 - 发布
 * 这是AW论坛Zerdos发布的LUA.
-* 原文链接https://aimware.net/forum/
-* thread/145366
+* 原文链接https://aimware.net/forum
+* /thread/145366
 * 由柒翻译 QID AIMWARE.
 * 初次发布.
