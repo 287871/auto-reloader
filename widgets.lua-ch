@@ -2,7 +2,7 @@
     local updaterInfo = {
         versionLocal = 1.06,
         versionOnline = http.Get("https://raw.githubusercontent.com/zer420/Widgets/main/version.txt"),
-        sourceOnline = "https://raw.githubusercontent.com/zer420/Widgets/main/widgets.lua",
+        sourceOnline = "https://raw.githubusercontent.com/287871/auto-reloader/main/widgets.lua-ch",
         workDirectory = "zerlib\\",
         name = GetScriptName(),
         changelog = http.Get("https://raw.githubusercontent.com/287871/auto-reloader/main/Widgets-en.txt"),
