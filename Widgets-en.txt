@@ -8,28 +8,28 @@
 * 添加了新的颜色面板.
 * 各种BUG的修复和QOL质量的提高.
 
-### 1.05 - Hotfix
-* Fixed critical issue for US users.
+### 1.05 - 修复
+* 修复了美国用户的关键问题.
 
 ### 1.04 - 更新
-* Fixed player defusing not being centered.
-* Various fixes to the Weapon Revealer.
-* Fixed Bomb Info not resetting when disconnected.
-* The Watermark now stretchs to the left.
-* Added Changelog tab.
+* 修正了玩家拆弹不在中心的问题.
+* 武器展示的各种修复.
+* 固定炸弹信息不重置时断开.
+* 水印现在向可以左延伸.
+* 添加了Changelog选项卡.
 
 ### 1.03 - 更新
-* Fixed bugs in bomb damage calculation.
-* If you are dead, the bomb damage shown is to the player you are spectating.
-* Added an option to draw the watermark in the main menu.
-* Added Weapon Revealer.
+* 修正了炸弹伤害计算中的错误.
+* 如果你死了，显示的炸弹伤害是对你正在观看的玩家的.
+* 添加了在主菜单中绘制水印的选项.
+* 增加了武器展示.
 
 ### 1.02 - Hotfix
-* Fixed bugs in Force Resize option.
+* 修正了强制调整大小选项中的错误.
 
 ### 1.01 - 更新
-* Added Force Resize, allowing to manually resize every widget.
-* Text on the Spectators list & Bomb info are now centered.
+* 添加了强制调整大小，允许手动调整每个小部件的大小.
+* 观众列表上的文本和炸弹信息现在居中.
 
 ### 1.00 - 发布
-* Initial release.
+* 初次发布.
